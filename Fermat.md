@@ -1,4 +1,4 @@
-draft = """
+
 # Introduction
 Today, we’re going to take a system engineering approach to one of the most legendary problems in mathematics—Fermat’s Last Theorem. This isn’t going to be a rigorous, formal proof. Instead, we’ll explore how this problem, over centuries, drew together many different branches of mathematics to form one of the most beautiful and unexpected proofs ever created.
 
@@ -76,9 +76,3 @@ The group operation on an elliptic curve is defined geometrically: given two poi
 For more on the group operation behind ECC, see the linked group theory page.
 
 *To be continued…*
-"""
-
-with open("/mnt/data/fermat_last_theorem_draft.md", "w") as f:
-    f.write(draft)
-
-"/mnt/data/fermat_last_theorem_draft.md"
