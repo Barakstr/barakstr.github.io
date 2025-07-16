@@ -1,10 +1,9 @@
 
 # Introduction
-Today, we’re going to take a system engineering approach to one of the most legendary problems in mathematics—Fermat’s Last Theorem. This isn’t going to be a rigorous, formal proof. Instead, we’ll explore how this problem, over centuries, drew together many different branches of mathematics to form one of the most beautiful and unexpected proofs ever created.
+Today, we’re going to take a system engineering approach to Fermat’s Last Theorem. This isn’t going to be a rigorous, formal proof. Instead, we’ll explore how this problem, drew together many different branches of mathmatics to form beautiful proof.
 
-We’ll walk through the historical timeline of the theorem—who worked on it, how their ideas evolved—and then sketch the architecture of the modern proof. The goal is not to dive into every technical detail, but to understand the big picture: why this theorem mattered so much, and how solving it changed mathematics itself.
+We’ll walk through the historical timeline of the theorem—who worked on it. The goal is not to dive into every technical detail, but to understand the big picture.
 
-Along the way, we’ll discover that this story is not just about solving an equation—it’s about the unity of mathematical ideas, the persistence of human curiosity, and the incredible effort it takes to crack a mystery that stood for more than three centuries.
 
 # What is Fermat’s Last Theorem?
 Fermat’s Last Theorem says:  
