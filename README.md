@@ -1,2 +1,1 @@
-# barakstr.github.io
-https://github.com/Barakstr/barakstr.github.io/blob/main/Fermat%20
+[Fermat's Last Theorem](Fermat.md)
