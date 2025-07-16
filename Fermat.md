@@ -1,6 +1,6 @@
 
 # Introduction
-Today, we’re going to take a system engineering approach to Fermat’s Last Theorem. This isn’t going to be a rigorous, formal proof. Instead, we’ll explore how this problem, drew together many different branches of mathmatics to form beautiful proof.
+Today, we’re going to take a system engineering approach to Fermat’s Last Theorem. This isn’t going to be a rigorous, formal proof. Instead, we’ll explore how this problem, combine together many different branches of mathmatics.
 
 We’ll walk through the historical timeline of the theorem—who worked on it. The goal is not to dive into every technical detail, but to understand the big picture.
 
